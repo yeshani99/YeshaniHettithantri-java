@@ -1,1 +1,2 @@
-# YeshaniHettithantri-java
+# JAVA-Practicals
+JAVA Lab Practicals
